@@ -1,1 +1,6 @@
 d:\INFO\ОБУЧЕНИЕ\AVTCH-TEST\Projects\CSharpProj\CSharpProj\bin\Debug\CSharpProj.exe.config
+d:\INFO\ОБУЧЕНИЕ\AVTCH-TEST\Projects\CSharpProj\CSharpProj\bin\Debug\CSharpProj.exe
+d:\INFO\ОБУЧЕНИЕ\AVTCH-TEST\Projects\CSharpProj\CSharpProj\bin\Debug\CSharpProj.pdb
+d:\INFO\ОБУЧЕНИЕ\AVTCH-TEST\Projects\CSharpProj\CSharpProj\obj\Debug\CSharpProj.csprojResolveAssemblyReference.cache
+d:\INFO\ОБУЧЕНИЕ\AVTCH-TEST\Projects\CSharpProj\CSharpProj\obj\Debug\CSharpProj.exe
+d:\INFO\ОБУЧЕНИЕ\AVTCH-TEST\Projects\CSharpProj\CSharpProj\obj\Debug\CSharpProj.pdb
